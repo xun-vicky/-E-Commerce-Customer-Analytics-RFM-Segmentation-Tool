@@ -60,7 +60,7 @@ Project2_Ecommerce_RFM/
 
 ## Product / Demo Link
 
-> **GitHub repository:** [xun-vicky/ecommerce-rfm-segmentation](https://github.com/xun-vicky/ecommerce-rfm-segmentation)  
+> **GitHub repository:** [https://github.com/xun-vicky/-E-Commerce-Customer-Analytics-RFM-Segmentation-Tool](https://github.com/xun-vicky/-E-Commerce-Customer-Analytics-RFM-Segmentation-Tool)  
 > **How to use:** Clone the repository, install dependencies, and run `streamlit run app.py` locally.  
 > **Demo video:** Mediasite link — to be added after recording.
 
